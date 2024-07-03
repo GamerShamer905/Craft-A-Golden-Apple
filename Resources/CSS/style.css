@@ -1,0 +1,12 @@
+body{
+    color:#008080;
+    background-color:#F8F0E3;
+}
+.product{
+    border: 5px solid #F85E;
+    width:250px ;    
+}
+.recipe{
+    width:300px ;    
+    border: 5px double #6519;
+}
